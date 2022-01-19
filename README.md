@@ -1,4 +1,4 @@
-# personal_budget
+# BudgetAPI
 Simple Node/Express API to manage a portfolio budget using a budget envelope strategy. Users can create, read, update, and delete envelopes. The project is a challange-project from the Back-End Developer course at Codecademy. 
 
 # Running the app
