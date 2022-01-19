@@ -1,8 +1,10 @@
 # BudgetAPI
 Simple Node/Express API to manage a portfolio budget using a budget envelope strategy. Users can create, read, update, and delete envelopes. The project is a challange-project from the Back-End Developer course at Codecademy. 
 
-# Running the app
-To run locally, run `npm install`, then `npm run start`
+# Prerequisites
+In order to run the program, you need to install Node.js on your computer.
+Once installed, install the program's dependencies with 'npm install' in your terminal with the 
+project's folder as working directory.`, then `npm run start`.
 
 Once the app is running locally, you can access the API at `http://localhost:5000/`
 
