@@ -3,7 +3,7 @@ Simple Node/Express API to manage a portfolio budget using a budget envelope str
 
 # Prerequisites
 In order to run the program, you need to install Node.js on your computer.
-Once installed, install the program's dependencies with 'npm install' in your terminal with the 
+Once installed, install the program's dependencies with `npm install` in your terminal with the 
 project's folder as working directory, then `npm run start`.
 
 Once the app is running locally, you can access the API at `http://localhost:5000/`
