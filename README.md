@@ -1,5 +1,5 @@
 # personal_budget
-Simple Node/Express API to manage a portfolio budget using a budget envelope strategy. Users can create, read, update, and delete envelopes.
+Simple Node/Express API to manage a portfolio budget using a budget envelope strategy. Users can create, read, update, and delete envelopes. The project is a challange-project from the Back-End Developer course at Codecademy. 
 
 # Running the app
 To run locally, run `npm install`, then `npm run start`
@@ -22,6 +22,3 @@ To test with Swagger:
 - [Documenting your API with Swagger](https://levelup.gitconnected.com/swagger-time-to-document-that-express-api-you-built-9b8faaeae563)
 - [Setting up Postman](https://author.codecademy.com/content-items/a5ed0fe82af00dcae4bb69e07d6b5fa8)
 - [Swagger Specification](https://swagger.io/docs/specification/basic-structure/)
-
-# Source
-This project was part of the challenge from the Back-End path by Codecademy
