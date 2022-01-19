@@ -1,5 +1,5 @@
 # BudgetAPI
-Simple Node/Express API to manage a portfolio budget using a budget envelope strategy. Users can create, read, update, and delete envelopes. The project is a challange-project from the Back-End Developer course at Codecademy. 
+Simple Node/Express API to manage a portfolio budget using a [Envelop Budgeting Principles](https://www.thebalance.com/what-is-envelope-budgeting-1293682). Users can create, read, update, and delete envelopes. This API follows best practices regarding REST endpoint naming conventions and proper response codes. The project is a challange-project from the Back-End Developer course at Codecademy. 
 
 # Prerequisites
 In order to run the program, you need to install Node.js on your computer.
